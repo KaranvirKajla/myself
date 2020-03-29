@@ -1,0 +1,15 @@
+.fa-comments{
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+}
+#chatBot{
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: brown;
+    z-index: 6;
+    height: 700px;
+    overflow-y: scroll;
+    width: 400px;
+}
